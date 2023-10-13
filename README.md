@@ -1,4 +1,4 @@
-# DevOps Fundamental Course
+# DevOps Journey: From Novice to Pro
 
 About Author: **Sajiyah** is a DevOps engineer who started her journey in tech just two years ago as
 an application developer. She found her passion in DevOps and now works as a contract worker.
