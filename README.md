@@ -96,8 +96,6 @@ This repository contains a curriculum for a DevOps adventure, divided into weeks
 
 **Duration:** One month
 
-**Timings:** Alternative days (Monday to Friday) or Saturday and Sunday
-
 **Venue:** Streamyard
 
 **Price** 8000 INR only
