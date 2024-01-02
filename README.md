@@ -9,6 +9,7 @@ source.
 
 ## About Course:
 
+![Jenkins (2)](https://github.com/Sajiyah-Salat/DevOps-Course/assets/109643863/400e0ab7-cb24-42b4-aa9b-66e6e33a8480)
 
 
 # DevOps Adventure
