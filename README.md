@@ -97,13 +97,7 @@ This repository contains a curriculum for a DevOps adventure, divided into weeks
 
 **Duration:** One month
 
-**Venue:** Streamyard
-
-**Price** 8000 INR only
-
-**For more detail:** Check out this [video](https://www.youtube.com/live/VYD04Xl-g6A?si=YT0WFTBLJmEuLL0V) 
-
-**Connect to take up this course:** [LinkedIN](https://www.linkedin.com/in/sajiya-salat-0a2a78245/)
+**Connect to take up this course:** [Linkedin](https://www.linkedin.com/in/sajiya-salat-0a2a78245/)
 
 ## Frequently Asked Questions
 
